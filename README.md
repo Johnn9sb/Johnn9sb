@@ -1,7 +1,7 @@
 ```
-👋Hi here!             ∧,,,∧
-I am Johnny Chu       ( ̳• · • ̳)
-M.S.student at NTUST  /    づ♡
+👋Hi here!                ∧,,,∧
+🙋‍♂️ I am Johnny Chu      ( ̳• · • ̳)
+🎓M.S.student at NTUST  /    づ♡
 ```
 <!--
 **Johnn9sb/Johnn9sb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
