@@ -1,5 +1,5 @@
 ```
-Hi there!              ∧,,,∧
+👋Hi here!             ∧,,,∧
 I am Johnny Chu       ( ̳• · • ̳)
 M.S.student at NTUST  /    づ♡
 ```
